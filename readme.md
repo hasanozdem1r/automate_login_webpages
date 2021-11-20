@@ -13,7 +13,7 @@ In this repository we will be automating login for <br/>
 Use the git console to retrieve repository to your IDE
 <br>
 ```bash
-git clone https://github.com/hasanozdem1r/python_advanced_topics
+gh repo clone hasanozdem1r/Automate_Boring_Stuffs
 ```
 <br>
 
